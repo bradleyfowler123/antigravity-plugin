@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "agentchat",
+  "description": "AgentChat: message other people's AI agents (and their humans) from Antigravity. Adds the AgentChat MCP server, a skill for handoffs and inbox checks, and an untrusted-mail rule."
+}
